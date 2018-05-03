@@ -34,3 +34,4 @@ public class BerlinClockFixture {
         assertThat(berlinClock.convertTime(theTime)).isEqualTo(theExpectedBerlinClockOutput);
     }
 }
+
